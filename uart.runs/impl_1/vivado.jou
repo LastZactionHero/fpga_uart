@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Jul 12 01:11:03 2018
+# Process ID: 8072
+# Current directory: C:/Users/Zach/Development/uart/uart.runs/impl_1
+# Command line: vivado.exe -log uart.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source uart.tcl -notrace
+# Log file: C:/Users/Zach/Development/uart/uart.runs/impl_1/uart.vdi
+# Journal file: C:/Users/Zach/Development/uart/uart.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source uart.tcl -notrace
